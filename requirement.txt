@@ -1,0 +1,10 @@
+streamlit
+requests
+feedparser
+langchain
+openai
+anthropic
+pytrends
+pandas
+google-generativeai
+python-dotenv
